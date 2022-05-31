@@ -39,7 +39,7 @@ I need more pratice using padding property.
 
 ### Useful resources
 
--[ Resource 1](https://www.w3schools.com/css/css_boxmodel.asp) - When you understand that everything is inside of a box, is just more easy.
+-[ Resource 1] https://www.w3schools.com/css/css_boxmodel.asp - When you understand that everything is inside of a box, is just more easy.
 
 -[Resource 2]https://www.w3schools.com/css/css3_object-fit.asp
 
